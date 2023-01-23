@@ -1,7 +1,4 @@
-import { useState } from "react";
 const Navbar = () => {
-  const [navbar, setNavbar] = useState(false);
-
   return (
     <>
       <nav className="flex flex-row items-center justify-center p-3">
